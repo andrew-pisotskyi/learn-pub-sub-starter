@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bootdotdev/go-api-gate/courses/learn-pub-sub/exchanges-queues/internal/pubsub"
-	"github.com/bootdotdev/go-api-gate/courses/learn-pub-sub/exchanges-queues/internal/routing"
+	"github.com/andrew-pisotskyi/learn-pub-sub-starter/internal/pubsub"
+	"github.com/andrew-pisotskyi/learn-pub-sub-starter/internal/routing"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

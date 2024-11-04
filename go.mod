@@ -1,4 +1,4 @@
-module github.com/bootdotdev/go-api-gate/courses/learn-pub-sub/exchanges-queues
+module github.com/andrew-pisotskyi/learn-pub-sub-starter
 
 go 1.23.0
 

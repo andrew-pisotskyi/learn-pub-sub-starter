@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bootdotdev/go-api-gate/courses/learn-pub-sub/exchanges-queues/internal/routing"
+	"github.com/andrew-pisotskyi/learn-pub-sub-starter/internal/routing"
 )
 
 const logsFile = "game.log"
